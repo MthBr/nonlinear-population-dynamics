@@ -7,8 +7,8 @@ Here we have:
 
 * study of the first simple model proposed by [Volterra](Notebooks/01.Simple_Model.ipynb) 
 * analysis of the the simple model in a [Non-dimensional form](Notebooks/02.Simple_Model_Nondimensionalization.ipynb) 
-* study of the Lotka-Volterra model, supposing both species have finite carrying capacity: [LV](Notebooks/Simple_Model.ipynb) 
-* analysis of the model with finite carrying capacity: [LV Non-dimensional form](Notebooks/Simple_Model_Nondimensionalization.ipynb)
+* study of the Lotka-Volterra model, supposing both species have finite carrying capacity: [LV](Notebooks/03.LV_Model.ipynb) 
+* analysis of the model with finite carrying capacity: [LV Non-dimensional form](Notebooks/04.LV_Model_NonDim.ipynb)
 
 * TODO  
 
