@@ -5,8 +5,11 @@ The purpose is to describe physically the model, and than analyze its stability,
 
 Here we have:
 
-* study of the first simple model proposed by [Volterra](Notebooks/Simple_Model.ipynb) 
-* analysis of the the simple model in a [Non-dimensional form](Notebooks/Simple_Model_Nondimensionalization.ipynb) 
+* study of the first simple model proposed by [Volterra](Notebooks/01.Simple_Model.ipynb) 
+* analysis of the the simple model in a [Non-dimensional form](Notebooks/02.Simple_Model_Nondimensionalization.ipynb) 
+* study of the Lotka-Volterra model, supposing both species have finite carrying capacity: [LV](Notebooks/Simple_Model.ipynb) 
+* analysis of the model with finite carrying capacity: [LV Non-dimensional form](Notebooks/Simple_Model_Nondimensionalization.ipynb)
+
 * TODO  
 
 
